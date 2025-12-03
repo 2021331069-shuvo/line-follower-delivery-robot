@@ -68,7 +68,8 @@ General Use Cases: Ensure that the robot can be used across multiple environment
 
 ## Hardware Requirements
 
-<img src= "aurdino-materials.jpg" style="height: 600px;">
+![Hardware Materials](aurdino-materials.jpg)
+
 
 1.Arduino UNO
 A microcontroller board based on the ATmega328P, featuring 14 digital I/O pins, 6 analog inputs, a 16 MHz ceramic resonator, USB interface, power jack, ICSP header, and a reset button.
@@ -103,16 +104,18 @@ We need the Arduino IDE software for the project. We will write custom programs 
 
 ## The Delivery Robot
 
-<img src = "SideView.jpg">
+![Side View](SideView.jpg)
+![Top View](TopView.jpg)
 
-<img src = "TopView.jpg">
+
+
 
 ---
 
 
 # Robot Construction and Arduino and other connections.
 
-<img src = "OpenView.jpg">
+![Open View](OpenView.jpg)
 
 
 <table>
