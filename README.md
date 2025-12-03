@@ -1,9 +1,7 @@
 # Delivery-Robot-Arduino-Project 
 
 ## DELIVERY ROBOT
-
-<img src="delivery-robot.jpg" style="height: 850px;">
-
+![Delivery Robot](delivery-robot.jpg)
 ---
 
 ## Abstract
