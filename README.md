@@ -1,7 +1,8 @@
 # Delivery-Robot-Arduino-Project 
 
 ## DELIVERY ROBOT
-![Delivery Robot](DELIVERY-ROBOT/delivery-robot.jpg)
+![Delivery Robot](delivery-robot.jpg)
+
 ---
 
 ## Abstract
@@ -66,7 +67,7 @@ General Use Cases: Ensure that the robot can be used across multiple environment
 
 ## Hardware Requirements
 
-![Hardware Materials](DELIVERY-ROBOT/aurdino-materials.jpg)
+![Hardware Materials](aurdino-materials.jpg)
 
 
 1.Arduino UNO
@@ -102,8 +103,11 @@ We need the Arduino IDE software for the project. We will write custom programs 
 
 ## The Delivery Robot
 
-![Side View](DELIVERY-ROBOT/SideView.jpg)  
-![Top View](DELIVERY-ROBOT/TopView.jpg)
+![Side View](SideView.jpg)
+
+![Top View](TopView.jpg)
+
+
 
 
 
