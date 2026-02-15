@@ -252,11 +252,11 @@ This project showcases how an affordable automation solution can reduce operatio
 5. https://docs.arduino.cc/hardware/uno-rev3/
 
 ## Authors
-- **Md. Shuvo Khan ** (Registration No: 2021331069)
-- **Nehal Hasnain Alve ** (Registration No: 2021331061)
-- **Shamim Hossain ** (Registration No: 2021331071)
-- **Sakib Al Hridoy ** (Registration No: 2021331005)
-- **Santosh Saha ** (Registration No: 2021331091)
+- ## Md. Shuvo Khan  (Registration No: 2021331069)
+- ## Nehal Hasnain Alve  (Registration No: 2021331061)
+- ## Shamim Hossain  (Registration No: 2021331071)
+- ## Sakib Al Hridoy  (Registration No: 2021331005)
+- ## Santosh Saha (Registration No: 2021331091)
 
 
 ---
